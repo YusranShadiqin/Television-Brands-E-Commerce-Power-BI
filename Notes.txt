@@ -1,0 +1,32 @@
+This dataset contains 912 samples with 7 attributes. There are some missing values in this dataset.
+
+Here are the columns in this dataset-
+
+	Brand 			: This indicates the manufacturer of the product i.e. Television
+
+	Resolution		: This has multiple categories and indicates the type of display i.e. LED, HD LED, etc.
+
+	Size			: This indicates the screen size in inches
+
+	Selling Price		: This column has the Selling Price or the Discounted Price of the product
+
+	Original Price		: This includes the Original Price of the product from the manufacturer.
+
+	Operating system	: This categorical variable shows the type of OS like Android, Linux, etc.
+
+	Rating			: Average customer ratings on a scale of 5.
+
+	Inspiration		:This dataset could be used to explore the current market scenario for Televisions. 
+		    		 There are various types of screens with different operating systems offered by several manufacturers at competitive prices. 
+
+Some questions this dataset could be used to answer are -
+
+1. Demand for different types of televisions and Number of Players in the market
+2. Which are the top 5 brands for television?
+3. Which brand has the highest number of products i.e. television ?
+4. Are televisions with higher ratings more expensive?
+5. Average Selling Price by Brand
+
+Customer Segmentation
+
+https://www.kaggle.com/code/conradorbibiano/kmeans-clustering-in-customer-segmentation
